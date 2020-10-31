@@ -17,7 +17,7 @@ python bfs.py
 
 👉 Don't for get to ⭐ the repo!
 
-## 👨‍ Author
+## 👨‍💻‍ Author
 
 #### Muhammad Hamza
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
