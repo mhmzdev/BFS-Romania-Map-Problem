@@ -1,4 +1,4 @@
-# Breadth First Search - Romania Map
+# BFS Romania-Map Problem
 
 ![Romania map](https://user-images.githubusercontent.com/43790152/97784960-1a142580-1bc4-11eb-9070-39c03eb16df2.png)
 
@@ -9,8 +9,8 @@
 Follow the below step to run the code:
 
 ```
-git clone https://github.com/m-hamzashakeel/Romania-Map-Problem_Python.git
-git cd Romania-Map-Problem_python
+git clone https://github.com/m-hamzashakeel/BFS-Romania-Map-Problem.git
+git cd BFS-Romania-Map-Problem
 python bfs.py
 ```
 *The algo is hard coded for 'Arad' to 'Bucharest'*
@@ -21,7 +21,7 @@ python bfs.py
 
 #### Muhammad Hamza
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/m-hamzashakeel)
+)](https://www.linkedin.com/in/mhamzadev)
 
 Follow me on GitHub:
 
